@@ -1,4 +1,5 @@
-# This example is an adaptation of the program vector_clock.py from the pimoroni-pico tufty2040 repository for the Pimoroni Explorerimport time
+# This example is an adaptation of the program vector_clock.py from the pimoroni-pico tufty2040 repository for the Pimoroni Explorer
+import time
 import gc
 
 from explorer import display
